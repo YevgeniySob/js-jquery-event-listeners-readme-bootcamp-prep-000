@@ -9,7 +9,7 @@ function getIt(){
 }
 
 function frameIt(){
-  $('tasty')
+  $('img').on('')
 }
 
 });
