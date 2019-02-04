@@ -9,7 +9,7 @@ function getIt(){
 
 function frameIt(){
   $('img').on('load', function(){
-    $('img:first').addClass("active")
+    $('img').addClass("active")
   })
 }
 
